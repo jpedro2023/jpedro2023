@@ -1,4 +1,4 @@
-# Olá, eu sou [Seu Nome]! 👋
+# Olá, eu sou o João Pedro! 👋
 
 ## Sobre mim
 Sou um entusiasta apaixonado por JavaScript e TypeScript, dedicado a explorar as nuances do desenvolvimento web moderno.
