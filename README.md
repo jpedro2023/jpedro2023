@@ -6,7 +6,7 @@ Sou um entusiasta apaixonado por JavaScript e TypeScript, dedicado a explorar as
 ## O que eu faço
 - Desenvolvedor Full Stack, focado em JavaScript e TypeScript.
 - Especialista em construção de APIs robustas com Node.js e Express.
-- Experiência em projetos front-end com React.js.
+- Experiência em projetos front-end com React.js e Angular.js.
 - Trabalho com bancos de dados SQL e NoSQL, moldando dados para atender às necessidades específicas do projeto.
 
 ## Habilidades
