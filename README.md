@@ -15,8 +15,4 @@ Sou um entusiasta apaixonado por JavaScript e TypeScript, dedicado a explorar as
 - **Bancos de Dados:** MongoDB, MySQL, PostgreSQL.
 - **Ferramentas:** Git, BitBucket, Azure, AWS.
 
-## Onde me encontrar
-- LinkedIn: (https://www.linkedin.com/in/jo%C3%A3o-pedro-rocha-carvalho-92487914a/)
-- Instagram: (https://www.instagram.com/ppretow/)
-
 Estou sempre em busca de desafios empolgantes e oportunidades de colaboração. Vamos criar algo incrível juntos! 🚀
